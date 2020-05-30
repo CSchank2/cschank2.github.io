@@ -1,14 +1,20 @@
 # Architect's Site
 
+[Photo Gallery](photos)
+
 ## Welcome to My Site 
 
 Hello, my name is Chris. Welcome to my site!
 
 List of hobbies:
 
-- Coding
-- Biking
-- Hiking
+* Coding
+  * Elm
+  * Haskell
+    * Stack
+    * ghc
+* Biking
+* Hiking
 
 Favourite fruits:
 
