@@ -1,6 +1,7 @@
 # Architect's Site
 
-[Photo Gallery](photos)
+- [Photo Gallery](photos)
+- [About Me](about)
 
 ## Welcome to My Site 
 
