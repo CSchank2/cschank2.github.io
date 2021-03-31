@@ -2,6 +2,7 @@
 
 - [Photo Gallery](photos)
 - [About Me](about)
+- [Architect Website](cschank7.github.io/)
 
 ## Welcome to My Site 
 
