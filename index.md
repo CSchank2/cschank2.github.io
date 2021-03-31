@@ -4,7 +4,7 @@
 
 ## Welcome to My Site 
 
-Hello, my name is Chris. Welcome to my site!
+Hello, my name is Chris. Welcome to my site! I'm glad to have you here.
 
 ## GitHub Pages Cheatsheet
 
@@ -19,8 +19,10 @@ List of hobbies:
   * Haskell
     * Stack
     * ghc
+  * Markdown
 * Biking
 * Hiking
+* Video Games
 
 Favourite fruits:
 
@@ -40,6 +42,7 @@ List of hobbies:
     * ghc
 * Biking
 * Hiking
+* Video Games
 
 Favourite fruits:
 
@@ -50,23 +53,23 @@ Favourite fruits:
 
 ### Inserting Links
 
-To make links, like [Outreach Website](http://outreach.mcmaster.ca),
+To make links, like [McMaster Start Coding Website](http://outreach.mcmaster.ca),
 use:
 
 ```markdown
-[Outreach Website](http://outreach.mcmaster.ca)
+[McMaster Start Coding Website](http://outreach.mcmaster.ca)
 ```
 
 ### Inserting Pictures
 
-![Picture of a brown dog](https://onlydogsandhorses.co.uk/wp-content/uploads/2017/09/DOGS-16-min.jpg)
+![Picture of a puppy](https://cdn.pixabay.com/photo/2015/09/23/22/56/dog-954520_960_720.jpg)
 
 #### Code to insert picture
 
 Find your picture URL on [Yahoo Images](https://images.yahoo.ca), then use:
 
 ```markdown
-![Picture of a brown dog](https://onlydogsandhorses.co.uk/wp-content/uploads/2017/09/DOGS-16-min.jpg)
+![Picture of a puppy](https://cdn.pixabay.com/photo/2015/09/23/22/56/dog-954520_960_720.jpg)
 ```
 
 ### Inserting Elm
